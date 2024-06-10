@@ -2,3 +2,16 @@
 2024-06-10	15:51:12	745a0d86-ec36-47b3-a4e6-fa61d6ca0022	/css/style.css	GET
 2024-06-10	15:51:12	50aa919a-41ab-4d57-90b3-1ef7857cd837	/img/img1.jpg	GET
 2024-06-10	15:51:12	905c9766-e737-4898-9278-26d671847fa2	/favicon.ico	GET
+2024-06-10	17:35:47	b1a46a66-a6e5-48c8-a189-2c902b047428	GET	undefined	/
+2024-06-10	17:35:47	8de70660-facb-4bb9-9043-60b51ceb4890	GET	undefined	/css/style.css
+2024-06-10	17:35:50	c8294b25-ed7a-4f7c-b1dd-d9d79c198ac3	GET	undefined	/
+2024-06-10	17:35:50	7338e95c-ce32-4c1c-a919-a7f88d95e5a1	GET	undefined	/css/style.css
+2024-06-10	17:37:44	5e8ba8cc-3772-4703-9bd5-68686b35213b	GET	undefined	/
+2024-06-10	17:37:44	45d8a97d-8660-47a2-9caa-9a47f92786f5	GET	undefined	/css/style.css
+2024-06-10	17:40:45	d99b0dd6-6720-4bb4-8636-8ef959158948	GET	undefined	/
+2024-06-10	17:40:45	21b12c46-fb1d-41eb-88d2-56fb9768c01f	GET	undefined	/css/style.css
+2024-06-10	18:43:58	e9f8302f-76de-4788-b6e9-0c5edce14b68	GET	undefined	/
+2024-06-10	18:43:58	c79949a4-4616-4a72-a6ab-e4f878e0d104	GET	undefined	/css/style.css
+2024-06-10	18:48:35	c33a396e-df02-4c5c-9cc9-34a03724cde3	GET	undefined	/
+2024-06-10	19:00:02	af386132-b344-45ba-acff-07821f709062	GET	undefined	/
+2024-06-10	19:00:02	2fcbcdbe-c6c6-42dc-8d95-fa6a28b015a5	GET	undefined	/css/style.css

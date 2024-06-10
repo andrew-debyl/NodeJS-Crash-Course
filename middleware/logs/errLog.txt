@@ -1,0 +1,1 @@
+2024-06-10	18:48:35	5ec47e94-2d61-4c61-b8e2-b13c2cf95f6f	Error: Not allowed by CORS
